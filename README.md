@@ -57,4 +57,7 @@ moment_rec_dbmtl_v1_part_0_2.config是阈值为0.2的config文件
 以上如果想变成pipeline形式，可以把以上命令写到一个sh文件里，可单独配一个config文件来单独给出所有输入信息，如accesskey和项目名称等。
 
 # 说明3
+以上文件全部删去了阿里云内部账号，url等涉密信息，本人已从阿里结束实习。
+
+# 说明4
 如果有任何问题，请联系zepenghuai6@gmail.com
